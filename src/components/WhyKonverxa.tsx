@@ -10,7 +10,7 @@ export default function WhyKonverxa() {
 <div className="absolute top-0 right-0 w-full lg:w-3/5 h-full pointer-events-none overflow-hidden">
 
   <img
-    src="images/img 2.jpg"
+    src="img 2.jpg"
     alt="Reunión directiva y operaciones KONVERXA"
     className="w-full h-full object-cover filter brightness-[0.95] contrast-[1.02] opacity-70"
   />

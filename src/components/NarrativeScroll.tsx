@@ -110,7 +110,7 @@ export default function NarrativeScroll() {
 {/* Fixed Background Image: Bright glass corporate atmosphere */}
 <div className="absolute inset-0 w-full h-full pointer-events-none overflow-hidden">
   <img
-    src="images/img 1.jpg"
+    src="img 1.jpg"
     alt="KONVERXA Centro Operativo"
     className="w-full h-full object-cover filter brightness-[0.92] contrast-[1.05] opacity-55"
   />

@@ -21,24 +21,24 @@ const CTA_SLIDES = [
     id: 1,
     description:
       'Solicita un diagnóstico de madurez operacional y descubre cómo el modelo de KONVERXA puede optimizar tus costes y elevar la satisfacción de tus clientes.',
-    image: 'images/Captura de pantalla 2026-08-20 155017.png',
+    image: 'Captura de pantalla 2026-08-20 155017.png',
   },
   {
     id: 2,
     description:
       'Evaluamos tu operación actual, identificamos oportunidades clave y diseñamos un plan de mejora a la medida de tus objetivos.',
-    image: 'images/Captura de pantalla 2026-08-20 155036.png',
+    image: 'Captura de pantalla 2026-08-20 155036.png',
   },
   {
     id: 3,
     description:
       'Implementamos soluciones operativas con tecnología, procesos y talento especializado para generar resultados medibles y sostenibles.',
-    image: 'images/Captura de pantalla 2026-08-20 155055.png',
+    image: 'Captura de pantalla 2026-08-20 155055.png',
   },
   {
     id: 4,
     description: '',
-    image: 'images/Captura de pantalla 2026-08-20 155114.png',
+    image: 'Captura de pantalla 2026-08-20 155114.png',
   },
 ];
 
@@ -171,7 +171,7 @@ export default function Home() {
 <section className="relative w-full overflow-hidden bg-black">
   <div className="w-full aspect-[2.4/1] min-h-[420px] max-h-[650px]">
     <img
-      src="images/mapa-global.png"
+      src="mapa-global.png"
       alt=""
       className="w-full h-full object-cover object-center"
     />
